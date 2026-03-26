@@ -12,7 +12,8 @@ public class NewArrivalsFeed {
         new NewArrival("2025-12-28", "ワイヤレスイヤホン Pro X111"),
         new NewArrival("2025-12-20", "軽量ノートPC 14インチ"),
         new NewArrival("2025-12-10", "USB-C 充電器 65W"),
-        new NewArrival("2026-03-25", "iPad Air m3モデル 512GB")
+        new NewArrival("2026-03-25", "iPad Air m3モデル 512GB"),
+        new NewArrival("2025-12-30", "iPad Air 7")
     );
   }
 }
